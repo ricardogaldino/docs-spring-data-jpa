@@ -1,2 +1,2 @@
-# docs-spring-data-jpa
-Spring Data JPA
+# Spring Data JPA
+https://spring.io/projects/spring-data-jpa
